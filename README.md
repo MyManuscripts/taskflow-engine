@@ -30,6 +30,10 @@ Designed to demonstrate clean architecture, SOLID principles, and modern Java de
 - **GitHub Actions** for CI/CD pipeline
 
 ---
+## Status: Research Phase  
+Exploring state machines for support workflows.  
+Not production-ready — but each commit includes notes on design decisions.
+
 
 ## Local Setup (Windows with WSL2)
 
